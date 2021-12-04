@@ -1,12 +1,46 @@
-# ANGULAR_ASP.NET.CORE-
-  >Necessário a instalação do VISUAL STUDIO, VSCODE, SQL SERVER e POSTMAN
 
-  >APÓS O CLONE DO PROJETO, UTILIZAR OS SCRIPTS DO SQL SERVER NO PRÓPRIO E EXECUTAR PARA ASSIM CRIAR O BANCO DE DADOS, TABELA E AS PROCEDURES.
+# Fin4teenWeb N3
 
-  >NA API É NECESSÁRIO A CONEXÃO COM O BANCO DE DADOS, PARA ISSO: PRESSIONE CTRL + ALT + S, CLICK EM ADD CONNECTION, PASSE O SERVER NAME QUE APARECE ASSIM QUE VC LOGA NO SQL SERVER,
-  E SELECIONE O DATABASE NAME. 
-  >APÓS ISSO CLICK COM BOTÃO DIREITO SOBRE O BANCO DE DADOS QUE APARECEU ALI NO "SERVER EXPLORER", CLICK EM PROPERTIES, COPIE A CONNECTION STRING E ALTERE NO ARQUIVO APP.SETTINGS.DEVELOPMENT.JSON
+## Tópicos 
 
-  >FEITO ISSO ALTERE ONDE O APLICATIVO IRA RODAR, SE LÁ EM CIMA E EMBAIXO DE TOOL EXTENSIONS, ESTIVER ISS EXPRESS, ALTERE PARA APIFORMULARIO. APÓS ISSO SÓ RODAR.
-  >JÁ NO PROJETO DO ANGULAR, DIGITE NO CONSOLE NG SERVE E AGUARDE ATÉ A APLICAÇÃO RODAR.
-  > COM OS DOIS APLICATIVOS RODANDO, SÓ DESFRUTAR DA APLICAÇÃO.
+ [Descrição do projeto](#descrição-do-projeto)
+ 
+ [Construção](#construção)
+ 
+ [Dependências](#dependencias)
+ 
+ 
+ [Build](#build)
+
+## Descrição do Projeto
+<b>Aplicação desenvolvida para o PMI Fin4teen. Nesta aplicação é possível saber informações sobre o projeto do PMI e cadastrar o seu contato para receber mais informações.
+
+É necesário a instalação do Visual Studio Code, SQL Server e Postman.
+
+Após o Clone do repositório do projeto, utilizar os scripts do SQL Server no próprio e executar para assim criar o banco de dados, tabelas e as Procedures.
+
+Na API é necessário a conexão com o banco de dados, para isso: Pressione CTRL + ALT + S, clique em ADD Connection, passe o server name que aparece assim que você loga no SQL Server e selecione o Database name.
+  
+ Após isso, clique com o botão direito sobre o banco de dados que apareceu no "Server Explorer", cloque em properties, compie a connection String e altere no arquivo app.settings.development.json.
+
+Feito isso, altere onde o app ira rodar, se lá em cima e embaixo de Tool Extension estiver ISS Express, altere para APIFormulario.
+Após isso, só dar o run no projeto.
+
+No projeto do Angular, digite no console "ng server" e aguarte até a aplicação rodar.
+
+Com as duas aplicações rodando, é só desfrutar da aplicação pelo local host.
+<br>
+
+
+* [Instagram Fin4teen](https://www.instagram.com/fin4teenapp/)
+  
+
+## Build
+
+## Dependências
+<b>Firebase/Auth<br>
+<b>Alamofire version 4.7.0<br>
+<b>Alamofire Image version 3.4.0<br>
+ 
+
+Projeto gerado com Xcode version 12.4.
