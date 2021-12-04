@@ -1,0 +1,26 @@
+<mat-card>
+  <mat-card-title class="centralizar">Lista de pessoas</mat-card-title>
+  <mat-card-subtitle class="centralizar" style="padding-top: 0.5rem;">
+    Veja as pessoas que irão acompanhar 
+    <br>
+    as nossas novidades
+  </mat-card-subtitle>
+</mat-card>
+<table class="table table-striped"> 
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th style="padding-left: 20px;">Sobrenome</th>
+      <th style="padding-left: 20px;">Email</th>
+      <th style="padding-left: 20px;">Telefone</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let usuario of ListaUsuarios">
+      <td>{{ usuario.nome}}</td>
+      <td>{{ usuario.sobrenome}}</td>
+      <td>{{ usuario.email}}</td>
+      <td>{{ usuario.telefone}}</td>
+    </tr>
+  </tbody>
+</table>

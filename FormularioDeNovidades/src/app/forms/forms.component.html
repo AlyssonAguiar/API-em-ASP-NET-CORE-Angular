@@ -1,0 +1,53 @@
+<div>
+  <mat-card>
+    <mat-card-title class="centralizar">Novidades</mat-card-title>
+    <mat-card-subtitle class="centralizar" style="padding-top: 0.5rem;">
+      Você que deseja estar por dentro 
+      <br>
+      de todas as nossas novidades
+    </mat-card-subtitle>
+  </mat-card>
+    <mat-card class="centralizar"> 
+      <div>
+      <table class="example-full-width" cellspacing="0">
+        <tr>
+          <td>
+            <mat-form-field class="example-full-width" appearance="outline">
+              <mat-label>Primeiro nome</mat-label>
+              <input matInput id="Nome" [(ngModel)]="Nome" name="Nome" placeholder="Ex.Pedro" required>
+              <mat-hint>digite o seu nome</mat-hint>
+            </mat-form-field>
+          </td>
+  
+          <td>
+            <mat-form-field class="example-full-width" style="padding-left: 2rem;" appearance="outline">
+              <mat-label>Sobrenome</mat-label>
+              <input matInput id="Sobrenome" name="Sobrenome" [(ngModel)]="Sobrenome" placeholder="Ex. Santos da Silva" required>
+              <mat-hint>digite o seu sobrenome</mat-hint>
+            </mat-form-field>
+          </td>
+      </tr>
+    </table>
+  
+      <p>
+        <mat-form-field class="example-full-width" appearance="outline">
+          <mat-label>Email</mat-label>
+          <input type="email" matInput name="Email" [(ngModel)]="Email" placeholder="Ex. usuario@example.com" required>
+          <mat-icon matSuffix>email</mat-icon>
+          <mat-hint>digite o seu email</mat-hint>
+        </mat-form-field>
+      </p>
+  
+      <mat-form-field  class="example-full-width" appearance="outline">
+        <mat-label> Telefone</mat-label>
+        <span matPrefix> +55 &nbsp;</span>
+        <input type="tel" matInput name="Telefone" [(ngModel)]="Telefone" placeholder="(DDD) 99999-9999" required>
+        <mat-hint>digite o seu telefone</mat-hint>
+        <mat-icon matSuffix>phone</mat-icon>
+      </mat-form-field>
+  
+      <button mat-stroked-button (click)="addUsuario()" color="primary">Cadastrar</button>
+      </div>
+  </mat-card>
+  </div>
+

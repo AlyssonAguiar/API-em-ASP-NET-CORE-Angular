@@ -1,0 +1,84 @@
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfoInputs.cache
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfo.cs
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.exe
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.deps.json
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.json
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.dev.json
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.pdb
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuca\source\repos\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.Manifest.cache
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.xml
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiFormulario.styles.css
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.RazorTargetAssemblyInfo.cache
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CopyComplete
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.dll
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.pdb
+C:\Users\Tuca\source\repos\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.genruntimeconfig.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.exe
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.deps.json
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.json
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.dev.json
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.pdb
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csprojAssemblyReference.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfoInputs.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfo.cs
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CoreCompileInputs.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.Manifest.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.xml
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiFormulario.styles.css
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.RazorTargetAssemblyInfo.cache
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CopyComplete
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.dll
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.pdb
+C:\Users\alyss\Desktop\api tuca\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.genruntimeconfig.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.exe
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.deps.json
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.json
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.runtimeconfig.dev.json
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\ApiFormulario.pdb
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csprojAssemblyReference.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfoInputs.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.AssemblyInfo.cs
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CoreCompileInputs.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.Manifest.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\staticwebassets\ApiFormulario.StaticWebAssets.xml
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiFormulario.styles.css
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.RazorTargetAssemblyInfo.cache
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.csproj.CopyComplete
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.dll
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.pdb
+D:\PROJETOS\FinalN3Juan\ApiFormulario\obj\Debug\netcoreapp3.1\ApiFormulario.genruntimeconfig.cache
